@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nidanur_gunay_nidanur_hw4", "nidanur_gunay_nidanur_hw4\nidanur_gunay_nidanur_hw4.vcxproj", "{F2724A00-299D-4D2A-A550-5C6C2DB80C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2724A00-299D-4D2A-A550-5C6C2DB80C5A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2724A00-299D-4D2A-A550-5C6C2DB80C5A}.Debug|Win32.Build.0 = Debug|Win32
+		{F2724A00-299D-4D2A-A550-5C6C2DB80C5A}.Release|Win32.ActiveCfg = Release|Win32
+		{F2724A00-299D-4D2A-A550-5C6C2DB80C5A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
